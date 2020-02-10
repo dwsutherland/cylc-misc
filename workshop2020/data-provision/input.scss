@@ -1,11 +1,11 @@
 // Number of slides
-$slide-count: 5;
+$slide-count: 6;
 
 // Tab colours (must be same as number of slides)
-$c-slides: #4a4a4a #606060 #7d7d7d #929292 #ababab;
+$c-slides: #4a4a4a #606060 #7d7d7d #929292 #ababab #c2c2c2;
 
 // Slide backgrounds (if used, must be same as number of slides, otherwise false)
-$b-slides: url('data_provision.png') url('img2.jpg') url('img1.png') url('img2.jpg') url('uis_delta_subs_final.gif');
+$b-slides: url('data_provision.png') url('Cylc8.png') url('GraphQL.png') url('Data-Store.png') url('uis_delta_subs_final.gif') url('logo.svg');
 // $b-slides: false;
 
 // Total duration of slide animation
